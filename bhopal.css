@@ -1,0 +1,42 @@
+
+.buy
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color:rgb(10, 10, 10);
+}
+.buy h1{
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 50px;
+}
+.b1
+{
+    
+    flex-basis:31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.b1 img
+{
+    
+    width:40% ;
+    border-radius: 10px;
+    padding-left: 350px;
+}
+
+.b1 h3{
+    color: aliceblue;
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.b1 p{
+    color: aliceblue;
+    padding: 0;
+    text-align: center;
+}
